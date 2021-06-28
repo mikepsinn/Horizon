@@ -18,4 +18,4 @@ tensorboardX==1.4
 thrift==0.11.0
 typing==3.6.6
 typing-extensions==3.6.5
-urllib3==1.23
+urllib3==1.26.5
